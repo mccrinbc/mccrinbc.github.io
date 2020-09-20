@@ -1,16 +1,19 @@
 ---
-title: "Doctor AI study: understanding doctors' needs for explainable AI"
-excerpt: "A usability study to identify physicians’ needs and requirements of explainable artificial intelligence
-<br/><img src='/images/user_need_study.jpg'>"
+title: "NanoRIMS: A Nanoparticle Reactor Instrumentation and Measurement System"
+excerpt: "A Final Year Thesis Project Turned Startup
+<br/><img src='/images/nanoRIMS_logo.png'>"
 collection: projects
-permalink: /doctor-ai.html
+permalink: /nanoRIMS.html
 
 ---
 
-Study Title:
+What started as an ambitious final year project with three of my closest friends, NanoRIMS took on a life of its own pretty quickly. I would be lying if I said we knew what we were getting ourselves into from the start. Truthfully, this project was **really** hard. At times, we had no idea if we were going to be able to finish it, or have it work for that matter. At the end of it all, we all learned a lot about Engineering, Intellectual Property, and ourselves. 
 
-**A usability study to identify physicians’ needs and requirements of explainable artificial intelligence**
+NanoRIMS, standing for a **Nano**particle **R**eactor **I**nstrumentation and **M**easurement **S**ystem, was to fill a niche within the biomedical sensor fabrication process. Biomedical research in particular has discovered a wide range of applications for gold nanoparticles, ranging from photodynamic therapy for treating skin diseases, photothermal therapy for cancer treatment, X-ray imaging, drug delivery systems, and biological/chemical sensing. Biomedical researchers are always seeking ways to optimize existing methods and develop novel applications for these useful particles. As a result, there needs to be a reliable and efficient method for synthesizing gold nanoparticles in small batches in order for research groups to be able to study their properties in a controlled setting. At the inception of NanoRIMS, small batch synthesis methods require human supervision and are labor intensive and error-prone. Therefore, **the purpose of NanoRIMS was to automate the synthesis and optical characterization of gold nanoparticles in the pursuit of reliability and consistency within biomedical sensing research**.  
 
-Study Description:
+<html>
+  <body>
+    <p> <a href="/files/ExpoReport_nanoRIMS.pdf"></a>NanoRIMS Technical Report PDF</p>
+  </body>
+</html>
 
-Although AI (artificial intelligence) especially deep learning technologies have the potential to augment clinicians' abilities, its implementation in patient-care settings has not yet become widespread. One major impediment is the black-box nature of AI. Thus, it is important to design explainable AI that is optimized not only for its expected clinical task performance, but also for its interpretability, i.e., the ability to explain its reasoning in understandable terms to its users. The study is to understand the needs and requirements of AI from doctors, so that to inform the development of AI systems for clinical decision-support.
