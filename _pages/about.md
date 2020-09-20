@@ -8,16 +8,15 @@ redirect_from:
 
 
 
-## About Weina
+## About Brian
 
 Hey, I'm Brian! I'm an MASc student working on the automated detection of mild traumatic brain injury **(mTBI)** using diffusion tensor imaging **(DTI)**. Eventually, I plan on pursuing a PhD focused on medical imaging and the translation of diagnostic Machine Learning into Radiology for improved clinical outcomes. 
 
 <!-- It is interdisciplinary research among AI, computer vision, information visualization (InfoVis), human-computer interaction (HCI), and medicine. An explanation is a two-way communication/interaction between AI system and its users, that's where HCI and InfoVis come in. -->
-I'm especially interested in using explanations for better learning, for both AI (enable AI to learn better by forcing explicit representation) and doctors (learn from those explicit representations to accumulate experience from big clinical data).
 
-Previously, I received a degree in **Engineering Physics, B.Eng** and am now working on my **Master's of Applied Science in Electrical and Computer Engineering (ECE)**, both from McMaster University. I work under Dr. Michael Noseworthy who is the director of the Imaging Research Labratory at St. Joseph's Healthcare, and a cross-appointed professor in the Department of ECE and School of Biomedical Engineering. 
+Previously, I received a Bachelor's of Engineering (B.Eng) degree in **Engineering Physics** and am now working on my **MASc in Electrical and Computer Engineering (ECE)**, both from McMaster University. I work under Dr. Michael Noseworthy -  the director of the Imaging Research Labratory at St. Joseph's Healthcare, and a cross-appointed professor in the Department of ECE and School of Biomedical Engineering. 
 
-Outside of school, I spend a ton of time climbing rocks, playing in a jazz/funk band, and learning how to kickflip. 
+Outside of school, I spend a ton of time climbing rocks, playing in a jazz/funk band, and drinking coffee that is way too expensive. Feel free to contact me at anytime if you're looking to collaborate, seek advice, or talk! 
 
 <!--
 ## Publications
