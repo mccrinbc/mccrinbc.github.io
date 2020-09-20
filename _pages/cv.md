@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computing Science, Simon Fraser University, 2023 (expected)
-* M.D., Peking University, 2013 (Specialized in Neurology)
-* B.S. in Clinical Medicine, Peking University, 2011
+* MASc., Electrical and Computer Engineering, McMaster University, 2021 (Expected)
+* B.Eng, Engineering Physics, McMaster University, 2014-2019
 
 <!-- Work experience
 ======
@@ -29,9 +28,8 @@ Education
 
 Skills
 ======
-* Machine learning: PyTorch, Keras, Scikit-learn
-* Data science: Numpy, Pandas
-* Programming: Python, C#, Java, Processing
+* Machine Learning, Deep Learning, Computer Vision, Optics
+* Programming: Python, MATLAB
 
 
 Publications

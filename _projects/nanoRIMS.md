@@ -6,9 +6,9 @@ collection: projects
 permalink: /nanoRIMS.html
 
 ---
-##Background 
+### Background 
 
-McMaster Engineering Highlight Video: https://www.youtube.com/watch?v=OhaVQgD_pT0
+**McMaster Engineering Highlight Video**: https://www.youtube.com/watch?v=OhaVQgD_pT0
 
 What started as an ambitious final year project with three of my closest friends, NanoRIMS took on a life of its own pretty quickly. I would be lying if I said we knew what we were getting ourselves into from the start. Truthfully, this project was **really** hard. At times, we had no idea if we were going to be able to finish it, or have it work for that matter. At the end of it all, we all learned a lot about Engineering, Intellectual Property, and ourselves. 
 
@@ -18,15 +18,16 @@ At the end of it all, NanoRIMS had won **1st Place, McMaster Big Ideas Pitch ($4
 
 It was fun while it lasted and I grew tremendously as a person because of it. At times, I hated the project. Others, it's all I wanted to work on. And I think that's normal. I'm thankful for my friends and the support from the Department of Engineering Physics for getting us as far as we did. Sometimes things don't work out, and that's okay!
 
-##Technical Aspects
+### Technical Aspects
 
 NanoRIMS had many technical components that needed a well-rounded team, which included **Thermal Management and Control (Heating and Cooling), Fluid Pumping, Free-Space Optics, Image Processing, and a Human-Computer Interface**. For brevity, I will only (briefly) discuss the main sub-modules what I focused on. 
 
-##Free-Space Optics
+### Free-Space Optics
 The optical characterization of the synthesized gold nanoparticles used the specific absorption spectra of nanoparticles to identify their size. The relationship between the size of the nanoparticle and the characterisic wavelength of absorption (related to the plasma frequency of the nanoparticle) is suprisingly linear! I designed a free-space spectrophotometer to determine the aborption sepectrum of the nanoparticle solution. This was done using a linear CCD sensor, a transmissive bragg diffraction grating, and a collimated white LED source. 
 
 ![Prototype Optics](/images/prototype_optics.png)
 This is a very early prototype of the design. It did not look like this in the final implementation! 
 
-## Image Processing
-The initial pumping of the gold solution used for the chemical processes is by far the most sensitive step due to the small amount of liquid that must be added into the mixing volume (~microlitres of fluid). While we were able to pump this small amount using a peristaltic pump, we were not able to do this reliably based on servo-motor steps alone. Further, measuring any weight change in a beaker volume from these drops would be impossible with the traditional load sensor we decided to use. Therefore, an image processing routine was employed to approximate the volume of each pumped drop. We approximate the volume of the drop by imaging the 2D cross-section of the drop right before it accelerates toward the beaker and assuming rotational symmetry. This actually worked pretty well (within a few percent of the true volume). The method was "published" in the McMaster Journal of Engineering Physics: https://journals.mcmaster.ca/mjep/article/view/1964. 
+### Image Processing
+The initial pumping of the gold solution used for the chemical processes is by far the most sensitive step due to the small amount of liquid that must be added into the mixing volume (~microlitres of fluid). While we were able to pump this small amount using a peristaltic pump, we were not able to do this reliably based on servo-motor steps alone. Further, measuring any weight change in a beaker volume from these drops would be impossible with the traditional load sensor we decided to use. Therefore, an image processing routine was employed to approximate the volume of each pumped drop. We approximate the volume of the drop by imaging the 2D cross-section of the drop right before it accelerates toward the beaker and assuming rotational symmetry. This actually worked pretty well (within a few percent of the true volume). 
+The method was "published" in the McMaster Journal of Engineering Physics: https://journals.mcmaster.ca/mjep/article/view/1964. 
