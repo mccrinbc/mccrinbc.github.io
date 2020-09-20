@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Brian McCrindle"
-  avatar           : "bio-photo.jpg"
+  avatar           : "bio-photo-brian.jpg"
   bio              : "Clinical Implementations of Machine Learning in Radiology"
   location         :
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=uajp-AkAAAAJ&hl=en"
+  #googlescholar    : "https://scholar.google.com/citations?user=uajp-AkAAAAJ&hl=en"
   email            : mccrinbc@mcmaster.ca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
