@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Weina Jin, MD"
+title                    : "Home Page"
 title_separator          : "-"
-name                     : "Weina Jin"
-description              : "Interpretable Machine Learning in Medicine"
-url                      : https://weina.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Brian McCrindle, B.Eng"
+description              : "Clinical Implementations of Machine Learning in Radiology"
+url                      : https://mccrinbc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weinajin/weinajin.github.io"
+repository               : "https://github.com/mccrinbc/mccrinbc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : weina_jin
+  username               : mccrinbc
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weina Jin"
+  name             : "Brian McCrindle"
   avatar           : "bio-photo.jpg"
-  bio              : "Trying hard to make AI explainable for healthcare professionals"
+  bio              : "Clinical Implementations of Machine Learning in Radiology"
   location         :
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uajp-AkAAAAJ&hl=en"
-  email            : weinaj@sfu.ca
+  email            : mccrinbc@mcmaster.ca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weinajin"
+  github           : "mccrinbc"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : jinweina
+  linkedin         : brianmccrindle
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "weina_jin"
+  twitter          : "mccrinbc"
   vine             :
   weibo            :
   xing             :
