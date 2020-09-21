@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* MASc., Electrical and Computer Engineering, McMaster University, 2021 (Expected)
+* MASc., Electrical and Computer Engineering, McMaster University, 2019-2021 (Expected)
+* Summer Student, Physics, University of Science and Technology, Hefei, China, 2019 (See Projects)
 * B.Eng, Engineering Physics, McMaster University, 2014-2019
 
 <!-- Work experience
