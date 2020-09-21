@@ -1,11 +1,13 @@
 ---
 title: "Stimulated Raman Backscattering for Seed-Pulse Amplification in a Plasma Medium"
-excerpt: "A Summer Project at the University of Science and Technology of China (USTC) during the Future Physicist International Summer Camp
-<br/><img src='/images/USTC.png'>"
+excerpt: "A Summer Project at the University of Science and Technology of China (USTC) during the Future Physicist International Summer Camp"
 collection: projects
 permalink: /USTC.html
 
 ---
+
+![USTC](/images/USTC.png)
+
 ### Background 
 
 During my final year as an undergraduate student, I got wind of an opportunty to apply for a physics summer camp! Who knew that they ran these things for kids over 10 (I consider myself a big kid)! The University of Science and Technology of China (USTC) was offering 3 McMaster University students the opportunity to study and collaborate with students from all over the world and their physics department. USTC has ran this summer camp before, but this was the **first time they were inviting Canadians**. It was a long shot, but I decided to apply anyways. And, well, I got in! 
