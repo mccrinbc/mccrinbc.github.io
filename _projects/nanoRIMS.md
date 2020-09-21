@@ -1,11 +1,13 @@
 ---
 title: "NanoRIMS: A Nanoparticle Reactor Instrumentation and Measurement System"
-excerpt: "A Final Year Thesis Project Turned Startup
-<br/><img src='/images/nanoRIMS_logo.png'>"
+excerpt: "A Final Year Thesis Project Turned Startup"
 collection: projects
 permalink: /nanoRIMS.html
 
 ---
+
+![Logo](/images/nanoRIMS_logo.png)
+
 ### Background 
 
 **McMaster Engineering Highlight Video**: https://www.youtube.com/watch?v=OhaVQgD_pT0
