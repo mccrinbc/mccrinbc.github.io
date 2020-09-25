@@ -9,9 +9,9 @@ citation: 'TBA'
 
 The paper has sections related to Bayesian Neural Networks, Variational Inference, Monte-Carlo Dropout, Ensemble Networks, and a concise literature review on the applications of these methods for medical image diagnosis.
 
-![antibiotic-vis](/images/Uncertainty_Figure.tif)
+![Uncertainty](/images/Uncertainty_Figure.tif)
 
 ABSRACT.
 
 
-[Paper](http://weina.me/files/vis_for_antibiotic_JIN.pdf)
+<!-- [Paper](http://weina.me/files/vis_for_antibiotic_JIN.pdf) -->
