@@ -1,7 +1,7 @@
 ---
 title:  "First Blog Post"
 date:   2020-09-20
-comments: true
+comments: false
 excerpt: "The first of (maybe a) few blog posts."
 tags:
   - [Beginning]
